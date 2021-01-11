@@ -1,10 +1,5 @@
 #===============================================================
 #BC2402 Designing & Developing Databases
-#Purpose: SQL Queries
-#Seminar: SEM1
-#Group: Grp8
-#Author: Angel Han Feng Yi, Aileen Laksmono, Andrew Imanuel, Julius Daniel Sarwono, Han Xiao
-#Supervising Tutor: Ben Choi
 #===============================================================
 
 #---------------------------------------------------------------
